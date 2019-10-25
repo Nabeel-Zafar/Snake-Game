@@ -1,0 +1,12 @@
+			canvas{
+                display: inline;
+               margin: 0 auto;
+				
+            }
+			body  {
+				background-color: #9acd32;
+			}
+			.snakeImg{
+				width:40%;
+				 display: inline;
+			}
